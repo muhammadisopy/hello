@@ -1,0 +1,2 @@
+isim = "Muhammadiso"
+print(isim)
